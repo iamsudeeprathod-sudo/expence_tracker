@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1775119810998,
+        "username": "9970099412",
+        "title": "Travel",
+        "amount": 5000.0,
+        "category": "Travel",
+        "date": "2026-04-02",
+        "description": "",
+        "created_at": "2026-04-02T14:20:11.004116"
+    },
+    {
+        "id": 1775119355504,
+        "username": "9970099412",
+        "title": "normal expenses",
+        "amount": 4000.0,
+        "category": "Mobile",
+        "date": "2026-05-06",
+        "description": "purchasing mobile display",
+        "created_at": "2026-04-02T14:12:35.520981"
+    },
+    {
+        "id": 1775109912313,
+        "username": "9970099412",
+        "title": "eating",
+        "amount": 5000.0,
+        "category": "Food",
+        "date": "2026-04-05",
+        "description": "with friends",
+        "created_at": "2026-04-02T11:35:12.324507"
+    },
+    {
+        "id": 1774976611682,
+        "username": "9970099412",
+        "title": "travelled with freinds",
+        "amount": 4560.0,
+        "category": "Travel Intl",
+        "date": "2026-03-02",
+        "description": "enjoying with freinds",
+        "created_at": "2026-03-31T22:33:31.688642"
+    },
+    {
+        "id": 1774859767999,
+        "username": "9970099412",
+        "title": "food",
+        "amount": 150.0,
+        "category": "Food",
+        "date": "2026-05-02",
+        "description": "with freinds",
+        "created_at": "2026-03-30T14:06:08.012015"
+    },
+    {
+        "id": 1774858472830,
+        "username": "9970099412",
+        "title": "education",
+        "amount": 500.0,
+        "category": "Education",
+        "date": "2026-03-30",
+        "description": "collage purpose",
+        "created_at": "2026-03-30T13:44:32.836936"
+    },
+    {
+        "id": 1774773231915,
+        "username": "sudeep rathod",
+        "title": "clothing",
+        "amount": 1500.0,
+        "category": "Clothing",
+        "date": "2026-03-29",
+        "description": "for me",
+        "created_at": "2026-03-29T14:03:51.926912"
+    },
+    {
+        "id": 1774772187104,
+        "username": "sudeep rathod",
+        "title": "travel",
+        "amount": 1200.0,
+        "category": "Travel",
+        "date": "2026-02-01",
+        "description": "with freinds",
+        "created_at": "2026-03-29T13:46:27.116523"
+    },
+    {
+        "id": 1774772111155,
+        "username": "sudeep rathod",
+        "title": "shopping",
+        "amount": 2000.0,
+        "category": "Shopping",
+        "date": "2026-03-02",
+        "description": "with family",
+        "created_at": "2026-03-29T13:45:11.168070"
+    },
+    {
+        "id": 1774770014472,
+        "title": "wada paav",
+        "amount": 50.0,
+        "category": "Food",
+        "date": "2026-03-02",
+        "description": "",
+        "created_at": "2026-03-29T13:10:14.487346"
+    },
+    {
+        "id": 1,
+        "title": "Lunch at restaurant",
+        "amount": 350.0,
+        "category": "Food",
+        "date": "2026-03-29",
+        "description": "Lunch with team",
+        "created_at": "2026-03-29T12:30:00"
+    },
+    {
+        "id": 2,
+        "title": "Electricity Bill",
+        "amount": 2500.0,
+        "category": "Bills",
+        "date": "2026-03-29",
+        "description": "Monthly electricity",
+        "created_at": "2026-03-29T10:00:00"
+    },
+    {
+        "id": 3,
+        "title": "Groceries",
+        "amount": 1200.0,
+        "category": "Food",
+        "date": "2026-03-28",
+        "description": "Weekly grocery shopping",
+        "created_at": "2026-03-28T15:45:00"
+    },
+    {
+        "id": 4,
+        "title": "Uber ride",
+        "amount": 150.0,
+        "category": "Transport",
+        "date": "2026-03-28",
+        "description": "To office",
+        "created_at": "2026-03-28T08:30:00"
+    },
+    {
+        "id": 5,
+        "title": "Netflix subscription",
+        "amount": 199.0,
+        "category": "Entertainment",
+        "date": "2026-03-25",
+        "description": "Monthly subscription",
+        "created_at": "2026-03-25T00:00:00"
+    }
+]

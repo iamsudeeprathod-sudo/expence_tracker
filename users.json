@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "sudeep",
+        "email": "iam.sudeeprathod@gmail.com",
+        "username": "rathodsudeep120-tech",
+        "password": "scrypt:32768:8:1$79MbFyYshWDCrwQ5$c160ba0db8a0e341b847d2451338d148d17c69d5fa4046d3e8e11cf090592e4caee8ba639b1276fe2481e77dc375f145ac07c1d03b9732a24976d9caf6d83360",
+        "created_at": "2026-03-29T13:20:34.667128"
+    },
+    {
+        "id": 2,
+        "name": "sudeep rathod",
+        "email": "sudeeprathod972@gmail.com",
+        "username": "sudeep rathod",
+        "password": "scrypt:32768:8:1$NHjXBp6C7GdUuXCv$ea95bd4d03192f6111051405d702292a5538654b6460f892ddeedc7ca9acc44067c4156fa16eac10abb2797c5dd18e59dcf4bfea9c4ad40b863f3f4650d0a889",
+        "created_at": "2026-03-29T13:43:45.997947",
+        "updated_at": "2026-03-29T14:12:26.863582"
+    },
+    {
+        "id": 3,
+        "name": "sudeep rathod",
+        "email": "iam.sudeeprathod@gmail.com",
+        "username": "9970099412",
+        "password": "scrypt:32768:8:1$LgEtZqPoRgoU3Fdk$c14b32cc59a9f31b7691fa2dfd098d7126736dbd0dbd462ef7652f6ef2fd2f33fa8b4db86d06646e6decd1645d8c86f1976762d4fd547543a139869c3bf739f1",
+        "created_at": "2026-03-30T13:42:31.449243",
+        "phone": "",
+        "address": "madhubhanvi tanda lt no 1",
+        "city": "bijapur",
+        "state": "karnataka",
+        "zip": "586104",
+        "bio": "",
+        "updated_at": "2026-04-02T14:15:35.327459"
+    }
+]
